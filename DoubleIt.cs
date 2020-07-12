@@ -1,9 +1,8 @@
 using System;
 
-class Program
+class DoubleIt
 {
   static void Main()
   {
-    
   }
 }
